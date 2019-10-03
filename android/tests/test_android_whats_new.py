@@ -14,7 +14,13 @@ class TestAndroidWhatsNew(object):
     """
     Whats New screen's Test Case
     """
-
+    """
+    askdjlsakjdlkasjdlkasjdlkasjdlksajdlskajdlksa
+    asd
+    sa
+    dsa
+    d
+    """
     def test_start_whats_new_smoke(self, setup_logging, set_capabilities, login):
         """
         Scenarios:
